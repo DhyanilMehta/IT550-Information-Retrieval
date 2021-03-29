@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO>1041123_business_story_4037993.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Business
+
+ Software licensing costs on their way up 
+
+ OUR SPECIAL CORRESPONDENT
+
+ New Delhi, Nov. 22: Gartner has warned enterprises worldwide that their software licensing costs are likely to increase by at least 50 per cent by 2006 unless efforts are taken soon to renegotiate existing contracts.
+
+ This is because four emerging trends in hardware threaten the traditional pricing model used by Oracle, IBM, Sybase and many other software companies based on microprocessor capacity.
+
+ The trends include the move towards multi-core chip architectures, the move to virtualise hardware resources across physical servers, growing availability of servers to support capacity on demand and increased interest in rapid provisioning tools.
+
+ Gartner analyst Andrew Butler said, ?Any one of these trends would present a great challenge to software vendors to maintain a fair and acceptable pricing policy. quot; 
+
+ Butler said, ?The fact that all four are happening at the same time is a recipe for software pricing mayhem. Software vendors will have to change their policies, but that change will not come quickly. It is, therefore, crucial for enterprises to understand the risks and protect themselves by starting contract negotiations with their vendors now.? 
+
+ Software companies generally charge for the total potential capacity of a central processing unit (CPU), without regard to what is used. There typically is no recognition of the utility-based pricing approach.
+
+ The processor chip conforms to the power profile and physical connection of a single processor chip, but includes multiple processor cores in one socket. System performance improves as a result, but Gartner warned that multi-core architectures will not double system performance. 
+
+ Despite this, the majority of software vendors surveyed by Gartner are intending to charge the current CPU fee for each core on the chip. For example, if a single core CPU now costs $40,000 per CPU, a dual core chip will cost $80,000.
+
+ Gartner warned, however, that any savings that enterprises are envisioning from hardware or reduced personnel will be more than offset by the increase in software fees. 
+
+ This is because most software vendors will not recognise logical partitioning or sub CPU partitioning in their licensing. This means enterprises will have to pay for the total potential server capacity, irrespective of what is used. 
+
+
+
+
+</TEXT>
+</DOC>

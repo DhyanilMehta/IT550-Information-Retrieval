@@ -1,0 +1,803 @@
+<topics>
+
+<top lang='en'>
+<num>76</num>
+<title>Clashes between the Gurjars and Meenas</title>
+<desc>
+Reasons behind the protests by Meena leaders against the
+inclusion of Gurjars in the Scheduled Tribes.
+</desc>
+<narr>
+The Gurjars are agitating in order to attain the status of a
+Scheduled Tribe. Leaders belonging to the Meena sect have
+been vigorously opposing this move. What are the main reasons 
+behind the Meenas' opposition? A relevant document should
+mention the root cause(s) behind the conflict between these
+two sects.
+</narr>
+</top>
+
+<top lang='en'>
+<num>77</num>
+<title>Attacks by Hezbollah guerrillas</title>
+<desc>
+Attacks by Hezbollah guerrillas on Indian and Israeli forces.
+</desc>
+<narr>
+A relevant document should provide information about attacks
+by Hezbollah guerrillas on Indian and Israeli peace keeping
+troops stationed in Israel.
+</narr>
+</top>
+
+<top lang='en'>
+<num>78</num>
+<title>Conflict between Advani and Singhal over the Ram
+Mandir issue</title>
+<desc>
+Conflict between Ashok Singhal, the president of Vishwa
+Hindu Parishad, and L.K. Advani, the BJP leader over the Ram
+Mandir issue.
+</desc>
+<narr>
+A relevant document should provide information about the
+ongoing debate on the Ram Mandir issue between Ashok
+Singhal, the Vishwa Hindu Parishad president, and L.K. 
+Advani, the BJP leader. Information on conflicts between
+these two leaders on other issues, or among other VHP and
+BJP leaders is irrelevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>79</num>
+<title>Building roads between China and Mount Everest</title>
+<desc>
+Plans to build a road from China to Mount Everest.
+</desc>
+<narr>
+A relevant document should describe plans to build a road
+from China to Mount Everest. Information about discussions
+on this issue between the Indian and Chinese authorities
+is also relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>80</num>
+<title>Babri Masjid demolition case started against Advani</title>
+<desc>
+Initiation of legal proceedings against Advani for his
+involvement in the demolition of Babri Masjid.
+</desc>
+<narr>
+A relevant document must include information about the
+initial legal steps taken against Advani, including the
+registration of an FIR, or orders passed by the Rae Bareilly
+court. Information about steps that were taken to transfer
+the case to the Allahabad High Court is not relevant, nor is
+information about what happened at the Allahabad Court.
+</narr>
+</top>
+
+<top lang='en'>
+<num>81</num>
+<title>Problems related to the immunization programme
+against Japanese Encephalitis in India</title>
+<desc>
+The Health Ministry in India has made certain plans to
+protect Indian children against the outbreak of Japanese
+Encephalitis. What problems have arisen in the course of
+implementing these plans?
+</desc>
+<narr>
+What problems have arisen while vaccinating Indian children
+against Japanese Encephalitis? One of the problems is that
+adequate vaccine is not manufactured in India. Thus, the
+possibility of importing vaccine from abroad (particularly
+China) has been considered. Related discussions will also be
+regarded as relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>82</num>
+<title>Proposed bus service between Srinagar and Muzaffarabad</title>
+<desc>
+The proposed bus service between Srinagar and Muzaffarabad,
+and its role in solving the Indo-Pak dispute.
+</desc>
+<narr>
+A proposed bus service between Srinagar in India and
+Muzaffarabad in Pakistan is being considered. What hopes has
+this raised about resolving disputes between the two
+countries? Terrorist organizations have threatened to attack
+the buses to disrupt the service. Information about such
+threats is also relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>83</num>
+<title>Election campaign of Laloo Prasad Yadav and Ram Vilas
+Paswan</title>
+<desc>
+Attempts made by Laloo Prasad Yadav and Ram Vilas Paswan to
+gain the votes of Muslim voters.
+</desc>
+<narr>
+A relevant document will describe attempts made by Laloo
+Prasad Yadav and Ram Vilas Paswan to gain the votes of
+Muslim voters. Of particular interest is information about
+various promises made and allurements offered to
+Muslims.
+</narr>
+</top>
+
+<top lang='en'>
+<num>84</num>
+<title>Brinda Karat's allegations against Swami Ramdev</title>
+<desc>
+Allegations raised by Brinda Karat that medicines sold by
+Swami Ramdev contain animal parts.
+</desc>
+<narr>
+A relevant document should contain information about
+complaints made by Brinda Karat alleging that Ramdev has
+been selling medicines containing animal parts, thus
+violating licensing and labeling regulations laid down in
+India's Drug and Cosmetics Act.
+</narr>
+</top>
+
+<top lang='en'>
+<num>85</num>
+<title>Abu Salem, accused in the Mumbai Bomb Blast case, in
+jail custody</title>
+<desc>
+Order passed by the court to remand Abu Salem, accused in
+the Mumbai Bomb Blast case, in jail custody.
+</desc>
+<narr>
+Information about Abu Salem's involvement in the Mumbai Bomb
+Blasts is relevant. Information related to other accusations
+against him, such as those related to the Pradip Jain murder
+case, or the passport forgery case, is not relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>86</num>
+<title>Privatization of the Mumbai and Delhi airports</title>
+<desc>
+The Government's decision to privatize the Mumbai and Delhi
+airports and its call for tender bids in this regard.
+</desc>
+<narr>
+A relevant document should contain information about the
+decision to modernise and privatise the Mumbai and Delhi
+airports. Information about Anil Ambani-owned Reliance
+Airport Developer Ltd.'s participation in the bidding
+process for both airports is also relevant, but articles
+dealing with the subsequent court cases are not relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>87</num>
+<title>Discussions between Manmohan Singh and Pervez Musharraf regarding
+the position of troops around Siachen</title>
+<desc>
+Discussions between Manmohan Singh, Prime Minister of India,
+and Pervez Musharraf, President of Pakistan, regarding the
+position of troops around Siachen.
+</desc>
+<narr>
+A relevant document should contain information about
+talks / discussions between Manmohan Singh, Prime Minister
+of India, and Pervez Musharraf, President of Pakistan,
+regarding the position of troops around Siachen.
+</narr>
+</top>
+
+<top lang='en'>
+<num>88</num>
+<title>Popular protests against the arrest of the accused in the Shankar
+Raman murder case</title>
+<desc>
+Arrests of Jayendra Saraswati, Shankaracharya of Kanchi and
+Vijayendra Saraswati, for their alleged involvement in
+the murder of Shankar Raman, and people's protests against
+these arrests. 
+</desc>
+<narr>
+Jayendra Saraswati, Shankaracharya of Kanchi, along with
+Vijayendra Saraswati, the junior Shankaracharya, were
+arrested for their alleged involvement in the murder of
+Shankar Raman. A relevant document should contain
+information about the arrests, and popular protests against
+the arrests.
+</narr>
+</top>
+
+<top lang='en'>
+<num>89</num>
+<title>Involvement of Congress ministers in the oil-for-food scam</title>
+<desc>
+Alleged involvement of the External Affairs Minister Natwar
+Singh and other Congress ministers in the Iraqi oil-for-food
+scam, and related investigations.
+</desc>
+<narr>
+A relevant document should contain information about the
+alleged involvement of K. Natwar Singh, India's External
+Affairs Minister, along with a few other Congress ministers,
+in the Iraqi oil-for-food scandal, and related investigations 
+by the Enforcement Directorate.
+</narr>
+</top>
+
+<top lang='en'>
+<num>90</num>
+<title>Indian representatives visit Bangladesh</title>
+<desc>
+A visit by a team of Indian representatives to Dhaka to
+discuss issues like sharing of water, security, and training
+camps for militants.
+</desc>
+<narr>
+A relevant document should contain information about one or
+more of the following issues in the context of a visit by
+Indian representatives to Bangladesh:
+- sharing of Teesta waters between India and Bangladesh
+- security, and training camps for militants
+- India's disappointment at Bangladesh's denial of the presence
+  of terrorist camps on its soil
+- India's apprehensions that ULFA militants are being
+  trained in Bangladesh and their activities are being
+  controlled from there.
+</narr>
+</top>
+
+<top lang='en'>
+<num>91</num>
+<title>Allegations of financial corruption against Pratibha Patil</title>
+<desc>
+Charges of financial corruption against Pratibha Patil.
+</desc>
+<narr>
+A relevant document should contain information about various
+charges of corruption levelled against Pratibha Patil,
+e.g. the embezzlement of Kargil funds, aiding relatives to
+take loans from a cooperative bank which were never repaid,
+etc. Information about protests by the NDA on such grounds
+against the nomination of Pratibha Patil for the post of
+President is also relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>92</num>
+<title>Activities of the Tamil Tigers of Sri Lanka</title>
+<desc>
+Insurgent activities of the Tamil Tigers of Sri Lanka.
+</desc>
+<narr>
+A relevant document should contain information about various
+destructive activities of the Tamil Tigers, such as their
+role in the civil war, attacks on Sri Lankan soldiers, etc.
+</narr>
+</top>
+
+<top lang='en'>
+<num>93</num>
+<title>Taking bribes for raising questions in parliament</title>
+<desc>
+Members of the Indian parliament caught on camera, accepting
+bribes for raising questions in Parliament.
+</desc>
+<narr>
+Some members of the Lok Sabha and Rajya Sabha were caught on
+camera, accepting bribes for raising questions in Parliament. 
+A relevant document should have information on this expose.
+</narr>
+</top>
+
+<top lang='en'>
+<num>94</num>
+<title>Indian Navy accused of leaking classified information</title>
+<desc>
+Investigations into the accusations that classified
+information has been leaked by the Indian Navy.
+</desc>
+<narr>
+The Indian navy has been accused of leaking classified
+information to foreign powers. A relevant document should
+have information about the CBI investigation into these
+allegations.
+</narr>
+</top>
+
+<top lang='en'>
+<num>95</num>
+<title>Racism row on the Big Brother show</title>
+<desc>
+The racism row on the Big Brother show involving Shilpa
+Shetty and Jade Goody.
+</desc>
+<narr>
+A relevant document should contain information about the
+racist attitude of Jade Goody towards Shilpa Shetty on the
+Celebrity Big Brother show, and Shilpa's reactions to this
+attitude.
+</narr>
+</top>
+
+<top lang='en'>
+<num>96</num>
+<title>Pramod Mahajan's killer</title>
+<desc>
+Statements made by Pramod Mahajan's killer in court, denying
+charges against him.
+</desc>
+<narr>
+The accused in the Pramod Mahajan murder trial has denied
+the charges against him. A relevant document should contain
+information about his denial.
+</narr>
+</top>
+
+<top lang='en'>
+<num>97</num>
+<title>Quarrel between the Ambani brothers regarding ownership of the
+Reliance Group</title>
+<desc>
+Feud between Mukesh Ambani and Anil Ambani regarding ownership of the
+Reliance Group.
+</desc>
+<narr>
+Information about the feud between Mukesh Ambani and Anil Ambani regarding
+ownership of the Reliance Group, and about the final report presented by
+K.V. Kamath on the valuation of assets of the Reliance Group is relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>98</num>
+<title>India dismisses China's claims on Arunachal Pradesh</title>
+<desc>
+India's dismissal of China's claims on Arunachal Pradesh.
+</desc>
+<narr>
+A relevant document should contain information about India's
+dismissal of China's claims on Arunachal Pradesh, and the
+arguments presented by India to support its position. 
+Statements made by the Arunachal Pradesh government are
+irrelevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>99</num>
+<title>Laloo Prasad Yadav and the fodder scam</title>
+<desc>
+Evidence regarding Laloo Prasad Yadav's involvement in the
+fodder scam.
+</desc>
+<narr>
+A relevant document should contain information about
+evidence regarding Railway Minister Laloo Prasad Yadav's
+involvement in the multi-million rupee fodder scam.
+</narr>
+</top>
+
+<top lang='en'>
+<num>100</num>
+<title>Monica Bedi and the passport forgery case</title>
+<desc>
+Monica Bedi charged with obtaining forged passports at
+Hyderabad.
+</desc>
+<narr>
+A relevant document should contain information about charges
+against Monica Bedi of acquiring a forged passport under a
+false name at Hyderabad, and the investigations conducted by
+the CBI in this regard. Information about forged passports
+obtained elsewhere is not relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>101</num>
+<title>Drug party at Pramod Mahajan's bungalow</title>
+<desc>
+Details of the drink-and-drugs party at the late Pramod
+Mahajan's official bungalow in which Rahul (his son), Bibek
+Moitra, and possibly others were involved.
+</desc>
+<narr>
+Rahul Mahajan and Bibek Moitra were involved in a late-night
+drink-and-drugs party, held at the official residence of
+the late Pramod Mahajan, Rahul's father. A relevant document
+should provide details about what happened that night,
+e.g. who was present, what intoxicants / drugs were consumed, 
+etc. A document whose main focus is on the aftermath of the
+incident - its political implications, controversy involving
+Rahul's medical reports, police investigations, etc. is not
+relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>102</num>
+<title>Pakistani cricketers involved in a doping scandal</title>
+<desc>
+Charges of doping against Shoaib Akhtar and Mohammad Asif.
+</desc>
+<narr>
+A relevant document should contain specific information
+about the charges of doping against Shoaib Akhtar and
+Mohammad Asif, or the steps taken by CAS in this case.
+</narr>
+</top>
+
+<top lang='en'>
+<num>103</num>
+<title>Bilateral problems surrounding the Baglihar hydro-electric
+power project</title>
+<desc>
+What is India's position on the Indo-Pak conflict over the
+Baglihar hydro-electric power project?
+</desc>
+<narr>
+The Baglihar hydro-electric power project has given rise to
+tension between India and Pakistan on the issue of sharing
+the waters of the Indus and its tributaries. A relevant
+document should cover the position of the Indian government
+on this issue.
+</narr>
+</top>
+
+<top lang='en'>
+<num>104</num>
+<title>Jaya Bachchan sacked from Rajya Sabha membership</title>
+<desc>
+What legal steps has Jaya Bachchan taken on being
+disqualified from Rajya Sabha membership for holding an
+office of profit?
+</desc>
+<narr>
+Jaya Bachchan has been disqualified from Rajya Sabha
+membership for holding an office of profit. A relevant
+document should cover the legal recourse that Jaya Bachchan
+has taken to protest against this decision.
+</narr>
+</top>
+
+<top lang='en'>
+<num>105</num>
+<title>Taj heritage corridor scandal</title>
+<desc>
+CBI investigations into the alleged involvement of the Chief
+Minister and highly placed bureaucrats of Uttar Pradesh in
+the multi-crore Taj heritage corridor scandal.
+</desc>
+<narr>
+A relevant document should focus on the investigation of
+Mayavati, D.S. Bagga, and R.K. Sharma by the CBI in
+connection with the Rs. 175 crore Taj Heritage Corridor
+Scandal.
+</narr>
+</top>
+
+<top lang='en'>
+<num>106</num>
+<title>Ban on Taslima Nasreen's novel "Shame"</title>
+<desc>
+Taslima Nasreen's novel "Shame" banned for hurting Muslim
+religious sentiments.
+</desc>
+<narr>
+A relevant document should contain information about
+resentment among the Muslim population against Taslima
+Nasreen's novel Shame, or the consequent ban on the
+novel. Information about any other novel is not relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>107</num>
+<title>Furore over the release of a CD containing
+anti-Muslim sentiments in Uttar Pradesh</title>
+<desc>
+Accusations against the BJP of publishing a CD containing
+anti-Muslim material during the run-up to the election in
+Uttar Pradesh, India, and steps taken by the BJP in this
+regard.
+</desc>
+<narr>
+A relevant document should contain information about BJP's
+involvement in the distribution of an anti-Muslim CD in
+UP (Uttar Pradesh), or about the suspension of the party
+workers involved in the preparation / modification of the CD
+from the BJP.
+</narr>
+</top>
+
+<top lang='en'>
+<num>108</num>
+<title>Greater Nagaland</title>
+<desc>
+Demand for a Greater Nagaland made by NSCN, a Naga
+organization, and protests made by neighbouring states
+against this demand. 
+</desc>
+<narr>
+A relevant document should contain information about 
+the demand for a Greater Nagaland, and the opposition to
+this move from Assam, Manipur and Arunachal Pradesh.
+</narr>
+</top>
+
+<top lang='en'>
+<num>109</num>
+<title>New political party formed by Raj Thackeray</title>
+<desc>
+Raj Thackeray's decision to form a new political party in
+Mumbai, and his announcement about the new party.
+</desc>
+<narr>
+A relevant document should contain information about the
+continuous conflicts between Raj and his cousin Uddhav
+Thackeray (Bal Thackeray's son), and about Raj's decision to
+form a new political party in Mumbai.
+</narr>
+</top>
+
+<top lang='en'>
+<num>110</num>
+<title>Sino-Indian relations and border trade</title>
+<desc>
+Border trade through Nathu La and its impact on
+Sino-Indian relations.
+</desc>
+<narr>
+Information about the prospects of improving Sino-Indian
+relations through border trade, expectations and
+apprehensions expressed by officials from the two countries
+in this regard, potential contentious issues, etc. is
+relevant. Details about the movement of goods through Nathu
+La are irrelevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>111</num>
+<title>Dance bars banned in Mumbai</title>
+<desc>
+Ban on Mumbai's dance bars and protests by dancers against
+the ban.
+</desc>
+<narr>
+A relevant document should contain information about the
+decision of the Maharashtra cabinet to ban dance bars in
+Mumbai, or about the protests / rallies organized by the
+dancers against the order to close down all dance bars.
+</narr>
+</top>
+
+<top lang='en'>
+<num>112</num>
+<title>Links between Gutkha manufacturers and the underworld</title>
+<desc>
+Links between the Goa and Manikchand Gutkha manufacturing
+companies and Dawood Ibrahim.
+</desc>
+<narr>
+A relevant document should contain information about the
+links between the owners of the Manikchand Gutkha and Goa
+Gutkha companies and Dawood Ibrahim, the gangster. 
+Information about links between Dawood Ibrahim and other
+companies is not relevant. 
+</narr> 
+</top>
+
+<top lang='en'>
+<num>113</num>
+<title>Political clashes in Bangladesh</title>
+<desc>
+Clashes within the BNP and between the BNP and the Awami
+League in Bangladesh.
+</desc>
+<narr>
+A relevant document should contain information on the
+clashes between existing BNP supporters and those who left
+the party, clashes between supporters of Sheikh Hasina and
+Khaleda Zia, and the number of persons killed or wounded in
+such clashes. </narr>
+</top>
+
+<top lang='en'>
+<num>114</num>
+<title>Investigation of the arms scandal in the Defence Ministry</title>
+<desc>
+Arms deal signed by George Fernandez with Denel, and demands
+made by Pranab Mukherjee for an investigation into
+irregularities in this deal.
+</desc>
+<narr>
+Information about an arms deal signed by ex-Minister George
+Fernandez with South African firm Denel is relevant. 
+Information about Defence Minister Pranab Mukherjee's demand
+for detailed information about the deal, and investigations
+into the purchase of arms is also relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>115</num>
+<title>Serial blasts in Varanasi</title>
+<desc>
+Casualties resulting from the serial blasts in the Sankatmochan
+temple.
+</desc>
+<narr>
+Relevant documents should contain information on the serial
+blasts in Varanasi, the first blast at the crowded
+Sankatmochan temple near Benaras Hindu University, and the
+number of persons dead / wounded, etc.
+</narr>
+</top>
+
+<top lang='en'>
+<num>116</num>
+<title>Encounter specialist Daya Nayak</title>
+<desc>
+What steps did the ACB take against Daya Nayak in the
+disproportionate assets (DA) case?
+</desc>
+<narr>
+A relevant document should contain specific information
+about the steps taken / charges framed by the
+Anti-Corruption Bureau against encounter specialist Daya
+Nayak. Information about charges against his wife and
+associates is irrelevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>117</num>
+<title>Controversy over land at Kalinganagar</title>
+<desc>
+The offer for talks made by the tribals and the Orissa
+government's plea for central mediation in connection with
+the controversy over land acquisition at Kalinganagar.
+</desc>
+<narr>
+The tribals have requested the Orissa government to call a
+meeting to resolve the controversy over land acquisition at
+Kalinganagar. The Orissa state government has sought
+mediation by the Centre over this issue. A relevant document
+should contain information about these moves. Other details
+about the meeting are irrelevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>118</num>
+<title>Terrorist strike at Ayodhya</title>
+<desc>
+Possible involvement of Pakistani terrorist groups behind
+the Ayodhya attack, and the effect of the attack.
+</desc>
+<narr>
+A relevant document should contain information on one or
+more of the following: the casualties inflicted, political
+strikes after the attack, suspicion of the involvement
+of Pakistani terrorist groups behind the attack, BJP's
+labeling the incident as a blow on religious beliefs,
+etc.
+</narr>
+</top>
+
+<top lang='en'>
+<num>119</num>
+<title>Taj Mahal controversy</title>
+<desc>
+Controversy about Taj Mahal take over.
+</desc>
+<narr>
+Is the Taj Mahal a wakf property? What evidence is there in
+support of this claim made by the Uttar Pradesh Sunni Wakf Board?
+Information about the Archaeological Survey of India's demand
+for supporting evidence is relevant. Also relevant is any
+information on efforts to privatise the Taj Mahal.
+</narr> 
+</top>
+
+<top lang='en'>
+<num>120</num>
+<title>Sex CD scandal involving Anara Gupta</title>
+<desc>
+Charges against Anara Gupta, erstwhile Miss Jammu, for her
+involvement in the sex CD scandal, and reports from the
+Andhra Pradesh forensic laboratory in this regard.
+</desc>
+<narr>
+Anara Gupta was arrested for her alleged involvement in the sex CD
+scandal. But the report from the Andhra Pradesh forensic laboratory
+termed the charges as baseless. A relevant document should contain
+information about the charges or the forensic reports from Andhra 
+Pradesh.
+</narr>
+</top>
+
+<top lang='en'>
+<num>121</num>
+<title>Blasts on Samjhauta Express</title>
+<desc>
+Deadly explosions on the Samjhauta Express.
+</desc>
+<narr>
+A relevant document should report about the blasts on the
+Samjhauta Express, and the casualties caused by the explosions.
+</narr>
+</top>
+
+<top lang='en'>
+<num>122</num>
+<title>Sanjay Dutt's surrender</title>
+<desc>
+Surrender of Sanjay Dutt, the actor, convicted in the 1993
+Mumbai blasts case.
+</desc>
+<narr>
+A relevant document should contain information about the
+surrender of Sanjay Dutt, convicted in the 1993
+Mumbai blasts case. Information about the time limit set by
+the court for Sanjay Dutt to surrender is also relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>123</num>
+<title>Death of Yasser Arafat</title>
+<desc>
+Death of Palestinian leader Yasser Arafat.
+</desc>
+<narr>
+A relevant document should contain information about the
+death of Palestinian leader Yasser Arafat. Information
+regarding the political uncertainty or instability in
+Palestine is not relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>124</num>
+<title>Sale of illegal drugs in various Indian states</title>
+<desc>
+Trade in illegal drugs in various states of India.
+</desc>
+<narr>
+A relevant document should mention the various places in
+India where illegal drugs are sold. The names of specific
+states are of particular interest.
+</narr>
+</top>
+
+<top lang='en'>
+<num>125</num>
+<title>Attack on the Lal Masjid</title>
+<desc>
+Siege of the Lal Masjid in Islamabad by fundamentalist students.
+</desc>
+<narr>
+A relevant document should contain information about one or more of
+the following: the arrest of the chief Imam of the Lal Masjid, gherao
+of the Lal Masjid by fundamentalist students in order to set him
+free, and clashes between the students and the police.
+</narr>
+</top>
+
+</topics>

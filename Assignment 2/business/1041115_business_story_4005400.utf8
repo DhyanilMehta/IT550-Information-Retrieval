@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO>1041115_business_story_4005400.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Business
+
+ New software to demolish the Tower of Babel on mobiles
+
+ M RAJENDRAN
+
+ Talk at ease 
+
+ New Delhi, Nov. 14: Speak in Bengali, hear in Tamil.
+
+ The digital world is working on a solution to break the Tower of Babel ? the biblical problem created by speakers of myriad tongues that ensured that no one understood the other.
+
+ Soon, mobile users will be able to speak in their mother tongues ? and find the people at the other end are able to comprehend them because technology translates the spoken word into another language.
+
+ The solution, which is being cobbled by the Centre for Development of Advance Computing (C-DAC), is expected to be commercially available three years from now.
+
+ After the huge business opportunities that was thrown up by the Y2K problem (which arose because computers then had not been configured back to recognise the new millennium) and business process outsourcing, India is all set to emerge as the leading supplier of speech and language systems software.
+
+ Here?s how it works: the spoken word in Bengali or any other language is transformed into audio signals. This is then digitized and analysed to extract important features of the spoken word (which is done through a complex audio signal processing technique). This is then analysed with artificial intelligence techniques to decipher the spoken word.
+
+ This process is known as speech-to-text translation. It entails the knowledge of linguistic structure of both language, the syntax, semantic, pragmatic knowledge along with lexical, dictionary and databases form an important part.
+
+ The translated text in Tamil or another language is then converted into audio signals. This process is called text-to-speech conversion. In the scientific argot, this technique is called concatanative synthesis. Its use is based on extraction of knowledge from databases from computer servers and web pages.
+
+ The speech-to-speech translation technology is being jointly developed by C-DAC in association with a few professors from Indian Institute of Technology (IIT) Kanpur, Indian Institute of Information Technology (IIIT) and Mysore.
+
+ Shyam S. Agrawal, who has spent more than 35 years in the research of speech and language communication, says there is one problem with the software ? the time lag, or latency, between speech at one end and its translation at the other. 
+
+ ?Latency of a second or two will be experienced when the conversation begins since the knowledge has to be extracted from databases. But once the conversation moves ahead, it will become real time. In future there will be no need for computers and servers since the embedded chips in the mobile phones will have this capability,? Agrawal said.
+
+ There is a big future for the new technology. Agrawal reckons that ?technology of speech and language translation will have a major impact on the economy and the world market. Like the telephone, everyone will like to have the voice synthesizer or voice recognition at home.?
+
+ ?It will also help voice-based commands for physically challenged persons to undertake their daily activities. It will also have an easy consumer application like switching on a television with a voice command,? Agrawal said. 
+
+ Currently, C-DAC has provided to Rajya Sabha special software that will translate the written text in Hindi into English, which would be used during the winter session of Parliament by the secretariat staff. 
+
+ C-DAC is a scientific society under the department of information technology in the ministry of communications and information technology. It was established with the mandate to undertake and promote state-of-the-art, scientific research and development in IT and to design and develop electronics equipment and systems for the growth of IT Industry. The unit lays emphasis on translating the goals of the ministry to bring fruits of IT to every walk of life and enhance the competitiveness of the IT industry.
+
+ By 2010, systems will help access information in a language known in any part of the world. This will happen in two phases. During the first phase, the access of text information will be done through cross language information retrieval (CLIR) ? a system that identifies particular words or phrases and searches on the internet and provides the information.
+
+ The second stage will be speech-enabled retrieval of information on the net.
+
+ C-DAC is likely to start a collaborative research with Germany and Japan for the first two phases.
+
+ The effort is also aimed to enhance the prospects for electronic governance. V. N. Shukla, director special application at C-DAC, said, ?With more than 22 official languages, we are uniquely positioned to develop products that can be used by other countries for text and speech interface.?
+
+ A multilingual research and process is being undertaken by the agencies in India to make software tools language independent. 
+
+
+
+
+</TEXT>
+</DOC>
