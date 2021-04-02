@@ -6,12 +6,17 @@ Some large files (with extensions .csv, .gz, and .tgz) are stored in Git LFS sys
 
 Datasets used:
   - FIRE 2010 English Dataset
-  - Porter Test Data for stemming
+  - Porter Test Data for stemming (For YASS Stemmer)
   - Jigsaw Toxic Comment Classification Challenge Dataset from Kaggle
   - Fake News Dataset from Kaggle
+  - BBC Business News Dataset
 
 Frameworks/Libraries used:
   - Numpy, Scipy
   - Scikit-learn
   - Terrier Python API
   - Gensim
+  - Surprise
+  - sumy
+
+Paper Implemented: YASS Stemmer
