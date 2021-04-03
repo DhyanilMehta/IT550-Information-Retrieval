@@ -1,6 +1,6 @@
 # IT550-Information-Retrieval
 
-This repository contains notebooks related to implementations of some information retrieval tasks, YASS Stemmer, and building some basic classifier, recommender, and summarization systems.
+This repository contains notebooks related to implementations of some information retrieval tasks, YASS Stemmer, query expansion, rocchio algorithm, and building some basic classifier, recommender, and summarization systems.
 These implementations were  performed during the course IT550 Information Retrieval in M.Tech at DAIICT, Gandhinagar.
 Some large files (with extensions .csv, .gz, and .tgz) are stored in Git LFS system.
 
@@ -12,6 +12,7 @@ Datasets used:
   - BBC Business News Dataset
 
 Frameworks/Libraries used:
+  - NLTK
   - Numpy, Scipy
   - Scikit-learn
   - Terrier Python API
